@@ -7,3 +7,4 @@ style-transfer/
 storage/
 venv/
 env/
+test.py
