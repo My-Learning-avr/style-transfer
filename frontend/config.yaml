@@ -1,0 +1,17 @@
+cookie:
+  expiry_days: 30
+  key: admin
+  name: admin
+credentials:
+  usernames:
+    admin:
+      email: admin@admin.com
+      name: admin
+      password: $2b$12$HnFB3PEy/U.RAGg82fctouUz1n5EHddTNdP.76CYGIkM0SyqQVoPm
+    tester:
+      email: test@test.com
+      name: tester
+      password: $2b$12$ybNfDL6fkOYbANHve8RFnue.kX3JUQ5fHXt/b/hOO3DpF6oW2TeMW
+preauthorized:
+  emails:
+  - avr@avr.com
